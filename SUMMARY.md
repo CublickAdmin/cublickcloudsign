@@ -25,5 +25,5 @@
   * [구글 계정 연동하기](google-attach/google-account.md)
   * [구글 드라이브에 이미지 및 동영상 업로드하기](google-attach/asset-upload.md)
   * [구글 드라이브에 파워포인트 업로드하기](google-attach/powerpoint-upload.md)
-* [이용약관](undefined.md)
+* [이용약관](term-of-service.md)
 
