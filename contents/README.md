@@ -16,6 +16,7 @@
 * 지원 가능한 사진 형식 : JPG, PNG, GIF, SVG
 * 지원 가능한 동영상 형식 : WMV, MOV, MP4, WEBM
 * 지원 가능한 오디오 형식 : WAV, MP3, FLAC
+* 지원 가능한 PPT 형식 : PPT, PPTX, PPS, PPSX
 
 **콘텐츠 자료 상세보기**
 

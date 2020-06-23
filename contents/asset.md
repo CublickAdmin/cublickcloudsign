@@ -11,10 +11,10 @@
 
 사진이나 동영상을 추가하려면 콘텐츠 자료 페이지 우측 상단의 '업로드' ![](../.gitbook/assets/2%20%282%29.png) 를 클릭합니다. 콘텐츠 자료를 업로드할 수 있는 팝업창이 나오게 되며 "업로드할 자료를 선택하세요"를 클릭하여 콘텐츠 자료를 선택하거나, 콘텐츠 자료를 팝업창 위에 드래그&드롭하면 업로드가 됩니다. 업로드된 자료는 플레이어 기기가 바로 전송하거나 프레젠테이션에서 사용이 가능합니다.
 
-* 지원 가능한 사진 형식 : jpg, png, gif, svg
-* 지원 가능한 동영상 형식 : wmv, mov, mp4, webm
-* 지원 가능한 오디오 형식 : wav, mp3, flac
-* 지원 가능한 PPT 형식 : ppt, pptx, pps, ppsx, pptm, xps, potx, potm, pot, thmx, ppsm, ppam, ppa, xml
+* 지원 가능한 사진 형식 : JPG, PNG, GIF, SVG
+* 지원 가능한 동영상 형식 : WMV, MOV, MP4, WEBM
+* 지원 가능한 오디오 형식 : WAV, MP3, FLAC
+* 지원 가능한 PPT 형식 : PPT, PPTX, PPS, PPSX
 
 **콘텐츠 자료 상세보기**
 
